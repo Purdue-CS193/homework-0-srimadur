@@ -1,4 +1,4 @@
-#Sri's First CS193 Homework
+# Sri's First CS193 Homework
 - The instructors are really nice.
 - I like that the lectures are easy to follow along.
 - I learn new things every class.
